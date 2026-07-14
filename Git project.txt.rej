@@ -1,0 +1,6 @@
+diff a/Git project.txt b/Git project.txt	(rejected hunks)
+@@ -1 +1,2 @@
+-hello, world
+\ No newline at end of file
++hello, world
++I am firastarter
